@@ -5,6 +5,7 @@ Por orden alfabético
 
 # Coche, nombre del conductor, asientos totales y pasajeros
 
+Opel Astra (Crespo Jiménez, Carlos, 5)
 Volkswage Golf (Torrecilla Fuentes, Jose Antonio, 5)
 ----------------------------------------------------
 -
