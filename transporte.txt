@@ -4,11 +4,17 @@ Lista de coches
 Por orden alfabético
 
 # Coche, nombre del conductor, asientos totales y pasajeros
+# Pasajeros ordenados alfabéticamente: Apellidos, nombre
 
+<<<<<<< HEAD
 Opel Astra (Crespo Jiménez, Carlos, 5)
 Volkswage Golf (Torrecilla Fuentes, Jose Antonio, 5)
+=======
+Volkswagen Golf (Torrecilla Fuentes, Jose Antonio, 5)
+>>>>>>> upstream/master
 ----------------------------------------------------
--
+-Chávez García, Ramón
+-Reina Martín, Ricardo
 -
 -
 -
