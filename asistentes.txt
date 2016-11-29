@@ -4,12 +4,13 @@
 # Ordenados por orden alfabético
 # Formato: Apellidos, Nombre
 
-<<<<<<< HEAD
 Crespo Jiménez, Carlos
-=======
 Chávez García, Ramón
 Gomez Galbarro, Rafael
->>>>>>> upstream/master
+Arroyo Aleman, Rafael
+Chávez García, Ramón
+Crespo Jiménez, Carlos
+Gomez Galbarro, Rafael
 Juan, Jorge
 Reina Martín, Ricardo
 Torrecilla Fuentes, José Antonio
